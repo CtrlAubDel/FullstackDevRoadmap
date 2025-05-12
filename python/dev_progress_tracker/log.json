@@ -1,1 +1,7 @@
-{}
+{
+  "2025-05-08": {
+    "language": "Python",
+    "topic": "Programming and Logic",
+    "summary": "Practiced writing structured data with the json modile using conditional logic to control flow, and built a CLI menu to allow user to add or view logs, implementing file handling to save daily entries to a JSON file."
+  }
+}
